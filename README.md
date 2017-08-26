@@ -4,7 +4,7 @@ inno setup+duilib实现定制皮肤一键安装
 ## 示例
 * 运行Example.exe可以看效果，其对应脚本Example.iss，使用可以参照这个脚本
 * 卸载使用安装目录中或开始菜单组或控制面板中的"卸载"
-![示例项目](https://git.oschina.net/uploads/images/2017/0826/185305_aa58736c_1223664.png "1.png")
+![示例项目](https://git.oschina.net/uploads/images/2017/0826/185334_b5ec4ac8_1223664.png "123.png")
 ![正式项目中的使用](https://git.oschina.net/uploads/images/2017/0826/185222_c7f3679a_1223664.png "2.png")
 
 ## 文件结构说明
