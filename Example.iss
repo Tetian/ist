@@ -12,7 +12,7 @@
 ;InstallDate 安装日期 yyyymmdd
 #define APP_GUID "6C38DB0D-ABDE-40F6-8ADF-B7174E601C12"
 ;应用版本 并设置安装包版本
-#define APP_VERSION "0.0.17.515"
+#define APP_VERSION "0.0.17.826"
 ;安装应用名
 #define APP_NAME "My Program"
 ;应用英文名
