@@ -22,7 +22,7 @@
 #define IST_DLL_NAME "ist.dll"
 #endif
 
-;皮肤路径 这里更具inno编译器定位
+;皮肤路径 这里根据inno编译器定位
 #ifndef IST_SKIN_PATH
 #define IST_SKIN_PATH "compiler:..\ist\ist.zip"
 #endif

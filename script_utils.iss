@@ -2,6 +2,7 @@
 ;Create 2015 Tetian
 ;IsDotNetDetected 检查.Net是否安装
 ;IsDotNet4 .Net4.0是否安装
+;IsDotNet2 .Net2.0是否安装
 ;SetInstallInfo 设置安装信息 尝试设置HKCU和HKLM
 ;GetInstallInfo 获取安装信息 先从HKCU获取,失败则从HKLM获取
 ;BeforeUninstall_Inno 对Inno结构的安装程序进行卸载

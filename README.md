@@ -1,5 +1,6 @@
 # ist
-inno setup+duilib实现定制皮肤一键安装
+* inno setup+duilib实现定制皮肤一键安装
+* 注意本项目基于Unicode环境
 
 ## 示例
 * 运行Example.exe可以看效果，其对应脚本Example.iss，使用可以参照这个脚本
